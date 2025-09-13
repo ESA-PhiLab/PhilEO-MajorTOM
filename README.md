@@ -45,22 +45,29 @@ The folder ```model``` holds 2 model files:
 
 
 ## Usage <a name="usage"></a>
-This repo offers a better use of computational resources, by leveraging the power of Distributed Data Parallel training in PyTorch, and thus effectively allowing you to utilize all your available GPUs. In particular, the following scripts can be used for fine-tuning, using a DDP paradigm:
+This repo offers a better use of computational resources, by leveraging the power of Distributed Data Parallel training in PyTorch, and thus effectively allowing you to utilize all your available GPUs. In particular, the following scripts can be used for fine-tuning, using a DDP paradigm: 
 
-- ```train_model_ddp.py```: fine-tune the PhilEO C-NN.
+- ```train_model_ddp.py```: fine-tune the PhilEO C-NN. 
 
-- ```train_model_vit_ddp.py```: fine-tune the PhilEO ViT .
+- ```train_model_vit_ddp.py```: fine-tune the PhilEO ViT. 
 
 ## Models and Data <a name="models"></a>
 
-Model weights: [Models](http://huggingface.co/NikolaosDionelis2023/GeoAware-ModelWeights/tree/main) 
+Model weights: [Models](http://huggingface.co/NikolaosDionelis2023/GeoAware-ModelWeights/tree/main)   
 
-Data: [Data S-2](http://huggingface.co/datasets/NikolaosDionelis2023/s2-phileobench/tree/main)
+Data: [Data S-2](http://huggingface.co/datasets/NikolaosDionelis2023/s2-phileobench/tree/main) 
 
-Also: Data: [Data S-1](http://huggingface.co/datasets/NikolaosDionelis2023/s1-phileobench/tree/main)
+Also: Data: [Data S-1](http://huggingface.co/datasets/NikolaosDionelis2023/s1-phileobench/tree/main) 
 
+Paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)   
 
+----------------
 
+Also: PhilEO Bench: [IGARSS Paper](http://phileo-bench.github.io/)   
+
+GitHub: [Code](http://github.com/ESA-PhiLab/PhilEO-Bench)    
+
+[PhilEO Bench](http://arxiv.org/pdf/2401.04464)  
 
 
 
