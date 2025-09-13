@@ -9,6 +9,7 @@
 2. [Datasets](#data)
 3. [New Models](#newmodels)
 4. [Usage](#usage)
+5. [Models and Data](#models)
 
 
 ## Introduction <a name="introduction"></a>
@@ -48,7 +49,7 @@ This repo offers a better use of computational resources, by leveraging the powe
 
 - ```train_model_vit_ddp.py```: fine-tune the PhilEO ViT .
 
-## Models and Data <a name="usage"></a>
+## Models and Data <a name="models"></a>
 
 Model weights: [Models](http://huggingface.co/NikolaosDionelis2023/GeoAware-ModelWeights/tree/main) 
 
