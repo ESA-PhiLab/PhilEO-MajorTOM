@@ -48,6 +48,14 @@ This repo offers a better use of computational resources, by leveraging the powe
 
 - ```train_model_vit_ddp.py```: fine-tune the PhilEO ViT .
 
+## Models and Data <a name="usage"></a>
+
+Model weights: [Models](http://huggingface.co/NikolaosDionelis2023/GeoAware-ModelWeights/tree/main) 
+
+Data: [Data S-2](http://huggingface.co/datasets/NikolaosDionelis2023/s2-phileobench/tree/main)
+
+Also: Data: [Data S-1](http://huggingface.co/datasets/NikolaosDionelis2023/s1-phileobench/tree/main)
+
 
 
 
