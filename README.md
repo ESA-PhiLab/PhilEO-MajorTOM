@@ -16,7 +16,9 @@
 This repository is an extension of the previously introduced [PhilEO Bench](http://arxiv.org/pdf/2401.04464), and is linked to [Paper](http://arxiv.org/pdf/2506.14765). The latter paper is a product of a collaboration between ESA's Phi-lab and Leonardo Labs. Due to protocol constraints, we have open-sourced a selection of files.   
   
 The PhilEO Bench serves as a framework that allows users to benchmark various
-Geospatial Foundation Models (GFMs) against each other on three downstream tasks: road density estimation, building density estimation, and land cover classification. The first two tasks are pixel-wise regression, while the last downstream task is semantic segmentation using 11 classes. In [Paper](http://arxiv.org/pdf/2506.14765), we expand on PhilEO Bench, by scaling up the 
+Geospatial Foundation Models (GFMs) against each other on three downstream tasks: road density estimation, building density estimation, and land cover classification. The first two tasks are pixel-wise regression, while the last downstream task is semantic segmentation using 11 classes.   
+
+In [Paper](http://arxiv.org/pdf/2506.14765), we expand on PhilEO Bench, by scaling up the 
 pretraining of the Geo-Aware U-Net to subsets extracted from [MajorTOM](https://github.com/ESA-PhiLab/Major-TOM). Moreover, we demonstrate that the PhilEO ViT UPerNet outperforms its C-NN decoder-based counterparts across all three downstream tasks. This repo can be considered a cleaned-up version of the
 previously mentioned PhilEO Bench repo, with additional files related to pretraining and fine-tuning the aforemetioned models.
 
