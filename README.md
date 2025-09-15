@@ -71,5 +71,22 @@ GitHub: [Code](http://github.com/ESA-PhiLab/PhilEO-Bench)
 
 [PhilEO Bench](http://arxiv.org/pdf/2401.04464)  
 
+----------------
+
+## Usage
+
+To run the model:  
+
+git clone https://github.com/ESA-PhiLab/PhilEO-MajorTOM.git    
+
+cd PhilEO-MajorTOM   
+
+(pip install -r requirements.txt)
+
+python train_model_ddp.py 
+
+(or python train_model_vit_ddp.py)
+
+
 
 
