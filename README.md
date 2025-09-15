@@ -59,7 +59,9 @@ Data: [Data S-2](http://huggingface.co/datasets/NikolaosDionelis2023/s2-phileobe
 
 Also: Data: [Data S-1](http://huggingface.co/datasets/NikolaosDionelis2023/s1-phileobench/tree/main) 
 
-Paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)   
+Paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)     
+
+Also: Paper: [PhilEO Scaling-Up](http://arxiv.org/pdf/2506.14765v1)    
 
 ----------------
 
