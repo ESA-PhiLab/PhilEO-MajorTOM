@@ -73,11 +73,11 @@ GitHub: [Code](http://github.com/ESA-PhiLab/PhilEO-Bench)
 
 ----------------
 
-## Usage
+## Usage 
 
-To run the model:  
+To run the model:   
 
-git clone https://github.com/ESA-PhiLab/PhilEO-MajorTOM.git    
+git clone https://github.com/ESA-PhiLab/PhilEO-MajorTOM.git     
 
 cd PhilEO-MajorTOM   
 
@@ -87,6 +87,10 @@ python train_model_ddp.py
 
 (or python train_model_vit_ddp.py)
 
+----------------
 
+Additional main files: mamba_foundation.py in the folder 'model'     
+
+vit_upernet_pretraining.py in the folder 'model'     
 
 
