@@ -85,7 +85,9 @@ cd PhilEO-MajorTOM
 
 python train_model_ddp.py 
 
-(or python train_model_vit_ddp.py)
+(or python train_model_vit_ddp.py) 
+
+(also: python ./further_experiments/n_shot_experiment2.py --read_yaml=default_args2.yml)    
 
 ----------------
 
