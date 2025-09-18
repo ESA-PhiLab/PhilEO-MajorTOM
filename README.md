@@ -35,6 +35,9 @@ This yields increased performance w.r.t. the previously used 0.5TB PhilEO Globe 
 
 The file ```majortom.py```, found in the ```data``` folder, contains a PyTorch implementation for formatting the extracted data from MajorTOM.
 
+Data: S-2: http://huggingface.co/datasets/NikolaosDionelis2023/s2-phileobench/tree/main   
+
+Also: Data: S-1: http://huggingface.co/datasets/NikolaosDionelis2023/s1-phileobench/tree/main 
 
 ## New Models <a name="newmodels"></a>
 In addition to the already published models from the PhilEO Bench, which can be found in the folder ```phileo-bench```, we also added the following files to the aforementioned folder:
