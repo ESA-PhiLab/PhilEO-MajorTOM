@@ -96,11 +96,15 @@ cd PhilEO-MajorTOM
 
 (pip install -r requirements.txt)
 
-python train_model_ddp.py 
+(or: pip install -r requirementsalternative.txt)  
 
-(or python train_model_vit_ddp.py) 
+python train_model_ddp.py  
 
-(also: python ./further_experiments/n_shot_experiment2.py --read_yaml=./further_experiments/default_args2.yml)       
+(or python train_model_vit_ddp.py)  
+
+----------------
+
+also: python ./further_experiments/n_shot_experiment2.py --read_yaml=./further_experiments/default_args2.yml         
 
 (in addition: for FLOPs: python ./further_experiments/n_shot_experiment.py --read_yaml=./further_experiments/default_args.yml)   
 
