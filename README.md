@@ -104,9 +104,11 @@ python train_model_ddp.py
 
 ----------------
 
-also: python ./further_experiments/n_shot_experiment2.py --read_yaml=./further_experiments/default_args2.yml         
+Also: 
 
-(in addition: for FLOPs: python ./further_experiments/n_shot_experiment.py --read_yaml=./further_experiments/default_args.yml)   
+python ./further_experiments/n_shot_experiment2.py --read_yaml=./further_experiments/default_args2.yml          
+
+For FLOPs: python ./further_experiments/n_shot_experiment.py --read_yaml=./further_experiments/default_args.yml     
 
 ----------------
 
