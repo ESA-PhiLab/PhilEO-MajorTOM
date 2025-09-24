@@ -31,7 +31,9 @@ previously mentioned PhilEO Bench repo, with additional files related to pretrai
 
 ## Datasets <a name="data"></a>
 The datasets used for pretraining are extracted from the MajorTOM repo. In particular, we pretrained the Geo-Aware U-Net on the MajorTOM 23TB Sentinel-2 dataset, and its smaller 2TB subset, called FastTOM.
-This yields increased performance w.r.t. the previously used 0.5TB PhilEO Globe dataset. For fine-tuning, we use the labelled 0.4TB PhilEO Bench [downstream](https://huggingface.co/datasets/PhilEO-community/PhilEO-downstream) dataset.
+This yields increased performance w.r.t. the previously used 0.5TB PhilEO Globe dataset.   
+
+For fine-tuning, we use the labelled 0.4TB PhilEO Bench [downstream](https://huggingface.co/datasets/PhilEO-community/PhilEO-downstream) dataset.   
 
 The file ```majortom.py```, found in the ```data``` folder, contains a PyTorch implementation for formatting the extracted data from MajorTOM.
 
