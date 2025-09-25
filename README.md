@@ -10,12 +10,13 @@
 3. [New Models](#newmodels)
 4. [Usage](#usage)
 5. [Models and Data](#models)
+6. [To run the model](#run)
 
 
 ## Introduction <a name="introduction"></a>
 This repository is an extension of the previously introduced [PhilEO Bench](http://arxiv.org/pdf/2401.04464), and is linked to [Paper](http://arxiv.org/pdf/2506.14765). The latter paper is a product of a collaboration between ESA's Phi-lab and Leonardo Labs. Due to protocol constraints, we have open-sourced a selection of files.   
 
-Main paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)     
+Main paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)      
 
 Also: Paper: [PhilEO Scaling-Up](http://arxiv.org/pdf/2506.14765v1)
   
@@ -90,9 +91,9 @@ GitHub: [Code](http://github.com/ESA-PhiLab/PhilEO-Bench)
 
 ----------------
 
-## Usage 
+## To run the model <a name="run"></a> 
 
-To run the model:   
+Usage: To run the model:   
 
 git clone https://github.com/ESA-PhiLab/PhilEO-MajorTOM.git     
 
