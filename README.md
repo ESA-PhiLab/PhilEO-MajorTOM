@@ -50,7 +50,7 @@ In addition to the already published models from the PhilEO Bench, which can be 
 
 - ```model_PhiViTUperNet.py```: contains the implementation for the PhilEO ViT UPerNet.
 
-The folder ```model``` holds 2 model files:
+Also, the folder ```model``` holds 2 model files:
 
 - ```phileo_cnn.py```: the [GeoDINO](https://meetingorganizer.copernicus.org/EGU25/EGU25-18029.html) architecture based on a U-Net design (i.e. the PhilEO CNN).   
 
