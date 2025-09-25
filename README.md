@@ -58,9 +58,9 @@ The folder ```model``` holds 2 model files:
 
 
 ## Usage <a name="usage"></a>
-This repo offers a better use of computational resources, by leveraging the power of Distributed Data Parallel training in PyTorch, and thus effectively allowing you to utilize all your available GPUs.    
+This repo offers a better use of computational resources, by leveraging the power of Distributed Data Parallel (DDP) training in PyTorch, and thus effectively allowing you to utilize all your available GPUs.     
 
-In particular, the following 2 scripts can be used for fine-tuning, using a DDP paradigm: 
+In particular, the following 2 scripts can be used for fine-tuning, using a DDP paradigm:  
 
 - ```train_model_ddp.py```: fine-tune the PhilEO CNN.   
 
