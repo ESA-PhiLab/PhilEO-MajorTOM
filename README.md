@@ -1,4 +1,4 @@
-# PhilEO-MajorTOM: Scaling-up the pretraining of Geospatial Foundation Models
+# PhilEO MajorTOM: Scaling-up the pretraining of Geospatial Foundation Models  
 
 ![Banner](images/esa.png)
 ![Banner](images/leonardo.png)
@@ -62,7 +62,7 @@ This repo offers a better use of computational resources, by leveraging the powe
 
 In particular, the following 2 scripts can be used for fine-tuning, using a DDP paradigm: 
 
-- ```train_model_ddp.py```: fine-tune the PhilEO C-NN. 
+- ```train_model_ddp.py```: fine-tune the PhilEO CNN.   
 
 - ```train_model_vit_ddp.py```: fine-tune the PhilEO ViT. 
 
