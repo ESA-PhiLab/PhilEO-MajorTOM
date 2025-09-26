@@ -14,9 +14,11 @@
 
 
 ## Introduction <a name="introduction"></a>
-This repository is an extension of the previously introduced [PhilEO Bench](http://arxiv.org/pdf/2401.04464), and is linked to [Paper](http://arxiv.org/pdf/2506.14765). The latter paper is a product of a collaboration between ESA's Phi-lab and Leonardo Labs. Due to protocol constraints, we have open-sourced a selection of files.   
+This repository is an extension of the previously introduced [PhilEO Bench](http://arxiv.org/pdf/2401.04464), and is linked to [Paper](http://arxiv.org/pdf/2506.14765). The latter paper is a product of a collaboration between ESA's Phi-lab and Leonardo Labs.     
 
-Main paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)      
+Due to protocol constraints, we have open-sourced a selection of files.    
+
+Main paper: [PhilEO MajorTOM](http://arxiv.org/pdf/2506.14765)       
 
 Also: Paper: [PhilEO Scaling-Up](http://arxiv.org/pdf/2506.14765v1)
   
